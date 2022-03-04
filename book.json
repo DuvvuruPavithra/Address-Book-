@@ -1,0 +1,27 @@
+ [
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "mobileNumber": "8142925213",
+      "State": "Andhra Pradesh",
+      "City": "Nellore",
+      "pinCode": "524121"
+    },
+    {
+      "firstName": "pavithra",
+      "lastName": "reddy",
+      "mobileNumber": "3287838338",
+      "State": "Telangana",
+      "City": "Nellore",
+      "pinCode": "524422"
+    },
+   {
+      "firstName": "vishnu",
+      "lastName": "reddy",
+      "mobileNumber": "7879899756",
+      "State": "chennai",
+      "City": "Tamilnadu",
+      "pinCode": "524423"
+    }
+  ]
+
